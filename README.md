@@ -81,3 +81,5 @@ This project focuses on performing **sentiment analysis** on product reviews usi
 - Use more advanced models like Logistic Regression, SVM, or deep learning (e.g., BERT)
 - Improve text preprocessing using lemmatization and named entity removal
 - Add a web interface for live sentiment prediction
+
+## Dataset: You can find the dataset on kaggle
